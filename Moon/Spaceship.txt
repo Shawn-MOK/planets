@@ -1,3 +1,6 @@
 Moon Ship
 Spaceman 1
-Spaceman 2 conflict2
+Spaceman 2 
+
+conflict 1 
+conflict 2
